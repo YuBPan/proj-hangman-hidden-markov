@@ -25,10 +25,16 @@ Run Instructions:
 
 \*Further: implement viterbi algorithm to reduce the run complexity of get_sentences_prob() from dfs's m^n to m\*n, but may expect some accuracy loss
 
+Test Results:
+
+1. test long sentences given allow guess as 10 (guess why achieve 100% here)
 ![test_long_allow_guess_10](./test_long_allow_guess_10.png)
 
+2. test long sentences given allow guess as 5
 ![test_long_allow_guess_5](./test_long_allow_guess_5.png)
 
+3. test short sentences given allow guess as 10
 ![test_short_allow_guess_10](./test_short_allow_guess_10.png)
 
+3. test short sentences given allow guess as 5
 ![test_short_allow_guess_5](./test_short_allow_guess_5.png)
