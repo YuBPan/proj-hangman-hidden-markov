@@ -1,4 +1,4 @@
-# Projest Hangman Game AI
+# Project Hangman Game AI
 ## implemented using Hidden Markov Model
 
 Compilers:
