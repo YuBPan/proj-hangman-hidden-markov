@@ -1,6 +1,8 @@
 # Project Hangman Game AI
 ## implemented using Hidden Markov Model
 
+![hmm](./hmm.gif)
+
 Compilers:
 - Python 2.7
 
