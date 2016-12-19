@@ -19,9 +19,11 @@ Run Instructions:
   max_num_sentences = 5 #[hard code!]    
   naive_guess_max_perventage = 0.4  #[hard code!]
   ```
+  
 2. run
-  ```shell
-  python Play.py
+
+  ```sh
+  $ python Play.py
   ```
 
 
